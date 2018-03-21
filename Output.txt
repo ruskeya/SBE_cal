@@ -1,0 +1,2651 @@
+Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)Sea-Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425-643—9866 Fax (+1) 425643-9954 EmaII: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19pIus V2 CONDUCTIVITY CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 PSS 1978: C(35,15,0) = 4.2914 Siemens/meter
+COEFFICIENTS:
+
+g = —1.0l7709e+000 CPcor = ~9.5700e—008
+
+h = 1.328397e—001 CTcor = 3.2500e—006
+
+i = —l.413619e—004
+
+BATH TEMP BATH SAL BATH COND INSTRUMENT INSTRUMENT RESIDUAL
+
+(°C) (PSU) (smn OUTPUT(HU COND(Smw (Shm
+22.0000 0.0000 0.00000 2769.78 0.0000 0.00000
+1.0000 34.7872 2.97371 5480.56 2.9737 0.00000
+4.5000 34.7676 3.28058 5686.63 3.2806 —0.00000
+15.0000 34.7255 4.26165 6299.67 4.2617 0.00000
+
+‘”18.5000‘” -34 7169 M--4 60660- 11.650i 23_w -MWA 6066--- o 06000,-1--.-I-----WMMMH-I ..
+24.0000 34.7077 5.16425 6814.18 5.1643 -0.00000
+29.0000 34.7029 5.68583 7094.09 5.6858 —0.00000
+32.5000 34.7006 6.05809 7287.11 6.0581 0.00000
+
+f = Instrument Output (Hz) / 1000.0
+t = temperature (°C); p = pressure (decibars); 5 = CTcor; e = CPcor;
+Conductivity(S/m)=(g+h*f2+i*fj+j * I‘)/10(1+5*I+e*p)
+
+Residual (Siemens/meter) = instrument conductivity — bath conductivity
+
+Date, SIope Correction
+
+0.002— ——————— I- ------- I -------.— ------- I---~--—I ——————— I--————--I 8 22-Mar-171.0000000
+' I I I I I I I
+”7 | I I I I I I
+" I I I I I I 2
+“ I I I l | I I
+0001‘ ------- I- ------- I --"~—-I— ~~~~~~~ I--------I ------- I“--““I
+.. I I | I I I I
+A — I I I I I I I
+E ‘ I I I I I I I
+g ‘ | I I I I 1 I
+g 04_ ............ :_, .............. : .......... , .§._.~G._._._._._:__®__5-..:‘_@_W9_._.:®_ - _. .. ....:
+3 ‘ I I I I I I I
+g — l I I I I I I
+I I I I I I I
+Z i : I 1 I : :
+0001~ ~~~~~~~ L ——————— '———————i ——————— '—--—~~~i ~~~~~~~ t--~——~J
+- ‘ I I I | I I I
+_. I I I I I I
+I I l | I I
+_ I I | | I I
+* I I I I I I I
+- I I I I I I I
+l I I I | I I
+'O-OOZTI'"I"I“I*;“I“II‘I‘i‘I‘I‘I'I’I'ITW‘I“E‘ITI‘I‘T‘I‘I“I‘ITI‘I'I'r'i
+0 1 2 3 4 5 6 7
+
+Conductivity (S/m)SYSTEM CONFIGURATION
+
+Model SBE 19plusV2 S/N 19-7792
+Instrument Type SBE 19plusv2 Seacat
+Firmware Version 3.1.8
+Communications 9600 baud, 8 data hits, no parity, one stop bit
+Memory 64MB
+Housing 600 meter (Acetron plastic)
+Zero Conductivity Raw Frequency 2769.78 Hz
+Number of Voltages Sampled: 0
+_, . Serial’Rs—ZSZC‘Sen’s’or""“"‘ M, ""SBE"’63’”OthiC‘al“DissolvedOxygen
+Pump (SBE 5) 05-9030
+Oxygen (SBE 63) 63-1533
+
+Common SBE Factory Default Values for Sensor Delays:
+Seacat without external sensors ............................................ 0 Seconds
+Minimum delay for external sensors (voltage or serial) ............... 4 Seconds
+Common sensors with a 4 second delay include:
+Wet Labs ECO sensors, Seapoint STM and SCF, PAH sensors, SBE38, SBE50, Cy/cops-7, & 0883+
+
+Wet Labs 0-Star ............................................................... 10 Seconds
+SBE43 (0.5 mil membrane) ................................................ 30 Seconds
+SBE43 (1.0 mil membrane) ................................................ 40 Seconds
+SBE63 ............................................................................ 40 Seconds
+SBE18 or SBE27 ............................................................... 60 Seconds
+Configured Overall Delay Setting for this CTD (Moored Mode): 40 Seconds
+
+Note: Overall Voltage DeIay Setting is based on the longest time delay as needed. A list is provided above of
+common sensor delay values programmed into CTD when integrated and shipped from Sea-Bird Electronics. To
+recalculate this value when adding or removing sensors, please refer to CTD manual.Sea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643-9866 Fax (+1) 425—643—9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SBE 19plus V2 PRESSURE CALIBRATION DATA
+CALIBRATION DATE: 20-Mar-17 508 psia SIN 10595352
+COEFFICIENTS:
+PAO = 3.113398e~001 PTCAO = 5.2405906+005
+PAl = 1.538578e'003 PTCAl = 1.093591e+001
+PA2 = 6.921156e—012 PTCAZ = a6.848369e~002
+,__,PTEM?A_9 ,_=,_ 75 -, 9,32,35,1ét‘39}. _ ,, __ ,, _ __ _, , , ??CBQ. = 2,. _-.,5l,_‘_13_9 9610.91,- , ,, ,,_ _, ,_ ,
+PTEMPAl = 5.009211e+001 PTCBl == -0.000000e+OOO
+PTEMPAZ = —2.S4ll75€~001 PTCB2 = 0.000000e+OOO
+PRESSURE SPAN CALIBRATION THERMAL CORRECTION
+PRESSURE INSTRUMENT THERMISTOR COMPUTED RESIDUAL TEMP THERMISTOR INSTRUMENT
+(PSIA) OUTPUT (counts) OUTPUT (volts) PRESSURE (PSIA) (%FSR) (°C) OUTPUT (volts) OUTPUT (counts)
+14.62 533555.0 1.8 14.61 -0.00 32.50 2.05 533732.83
+204.87 657123.0 1.8 204.85 ~0.00 24.00 1.88 533671.59
+304.88 722020.0 1.8 304.85 40.01 18.50 1.77 533628.56
+404.87 786887.0 1.8 404.86 -0.00 15.00 1.70 533599.08
+504.87 851722.o 1.8 504.88 0.00 4.50 1.49 533497.94
+404.87 786907.0 1.8 404.89 0.00 1.00 1.41 533460.31
+......,....N.,...._.m........30 44.4.8 3.WWWW...,,..,1.7.2.2.05,3.,.o..,......1....1...1............l....g .......................... 13041.9 0.2.1.1111....119,..100W.-..1.-.,1-1.1.1.”...,...1.1..W..1....WWW1.M...-1.,..1...m.1...M..w.......1.........1....w..mm
+204 .88 657152 .0 1. 8 204 . 89 0 . 00 TEMPERATURE (90) SPAN (my)
+104.88 592220.0 1.8 104.90 0.00 _5_00 25‘14
+l4.61 S33557.0 1.8 14.61 -0.00 35_00 25.14
+y = thermistor output (counts)
+t = PTEMPAO + PTEMPA] * y + PTEMPAZ * y2
+X = instrument output - PTCAO - PTCAI * t - PTCA2 * I;2
+n = x * PTCBO / (PTCBO + PTCBI * t + PTCB2 * t2)
+pressure (PSIA) = PAO + PAl * n + PA2 * n2
+. ' o = _ =1:
+RCSlduaI (%FSR) (computed pressure true pressure) 100/ Full Scale Range D at e, Offset (%FSR)
+O.50~—~~~—: ————— I ————— 2 ————~; ——————————————————————————————————— I- e 20~Mar—17 —0.00
+‘ i I I i I
+_ | I I | I
+__ I I | I I
+I I I I I
+—‘ I I I I l
+ozs——————:~——-+~-——:———«~: ——————————————————————————————————— :—
+_ I I I I I
+I I I I I
+E — I I I I I
+U) .. I | I I I
+u, I I I I I
+8 0‘ : .2 - :
+.5 ‘—@—‘-“I'7--7 "“N'IA-‘M‘I “m "—7"
+_ | I I I
+'8 I I I | I
+7,; ‘ I I I I I
+ID _ I I I I I
+C! I I I I I
+'- I I | l I
+025 ...... ‘ 1..___' _____ ‘ 11-11' ___________________________________ ‘-
+' - I I
+
+ 
+
+.J
+_I
+__I
+|
+l
+
+43-5071WWW’E'IW‘I‘EWW‘iWWﬁWMI I I I
+O 50 100 150 200 250 300 350 400 450 500
+
+Pressure (PSIA)
+
+01
+0]....
+Os B Sea-Bird Electronics, Inc. Phone: (425) 643—9866
+F R r 13431 NE 20th St. Bellevue, Washington 98005 USA Fax: (425) 643-9954
+
+“\Jx/x/x/x/x/<u/x-/xm/i www_seabird.com Email: seabird@seabird.com
+
+Pressure Test Certificate
+
+Test Date: 2017-03-17 Description: SBE-19Plus SeaCat Proﬁler
+
+Sensor Information:
+
+Model Number: SBE-19P
+
+Pressure Test Protocol:
+
+Low Pressure Test: 40 PS! Held For: 15 Minutes
+
+High Pressure Test: 500 PSI Held For: 15 Minutes
+
+Passed Test: True
+
+Tested By: AM High pressure is
+generaiiy equal
+to the maximum
+
+depth rating 0f
+the instrument
+
+Pressuye
+
+_ a
+uuuuuuuuuuuuuuuuuuuuuu
+O?‘
+a.
+.
+‘0
+.
+
+   
+
+. ,. . .. Time
+Typicat Test FrameSea—Bird Electronics, Inc.
+
+13431 NE 20th Street, Bellevue, WA 98005-2010 USA
+Phone: (+1) 425—643—9866 Fax (+1) 425—643-9954 Email: seabird@seabird.com
+
+SENSOR SERIAL NUMBER: 7792 SEE 19plus V2 TEMPERATURE CALIBRATION DATA
+CALIBRATION DATE: 22—Mar-17 ITS—90 TEMPERATURE SCALE
+
+COEFFICIENTS:
+
+a0 = 1.2125248-003
+a1 = 2.7851298-004
+a2 = —8.1760588-007
+a3 = 1.688228e—007
+BATH TEMP INSTRUMENT INST TEMP RESIDUAL
+(° C) OUTPUT (counts) (° C) (° C)
+1.0000 549684.345 1.0000 ~0.0000
+4.5000 486084.373 4.5001 0.0001
+15.0000 330551.136 15.0000 0.0000
+18.5000 289294.483 18.4999 —0.0001
+29.0000 191356.845 29.0001 0.0001
+32.5000 165928.051 32.4999 ‘0.0001
+WWW,Wnmemmolﬁpm(counts)m-...mwwwmm-m-wmw~w
+
+MV = (n - 524288)/ 1.6e+007
+R = (MV * 2.900e+009 + 1.024e+008) / (2.048e+004 — MV * 2.0e+005)
+Temperature ITS—90 (°C) = 1/{a0 + a1[ln(R)] + a2[ln2(R)] + a3 [In3(R)]} — 273.15
+
+Residual (°C) = instrument temperature - bath temperature
+Date, Offset (mdeg C)
+
+0.02”“““‘”‘I”””‘""I'”“”““I"""“‘I’“””“"I““"“I"""”I ”””””” 3 22-Mar-17 —0.00‘
+‘ I I I I I I I
+_ I I I I I I I
+“ I I I I I I I
+— I I I I l I I
+001~ ———————
+A _ | I | I I I I
+O I I I I I I l
+H I l | I I I I
+$ _ I I I I I I I
+<1) I I
+‘5; — I I I I I I I
+25': 0— — - - — « - :— 1.1.1-3 WIW~-~-I——- -. ~~ 4+- - ~ 1.41.. — —-
+__ .. I
+m : : : : : . I
+g .— I I | I I I I
+'5 g I I I I I I I
+I I I I I I I
+g — I I I I I I I
+om— ———————
+- I I I I I I I
+I I I I I I I
+_ I I | I I I I
+w I I I I I I I
+I I 1 I I I I
+—— I I I I I I I
+I I I I I I I
+'O-OZT—I"I"T'l'i_7‘FT'I'£"_I‘F1‘I‘E'I'I‘ﬁl'F-i-I‘F'I'I'TW‘T‘I‘F—i-I'TW'F]'I'T-I‘IHI
+-5 0 5 1O 15 20 25 30 35
+
+Temperature (Degrees C)
